@@ -1,7 +1,8 @@
-*.doc
-*.docx
-*.xls
-*.xlsx
-*.ppt
-*.pptx
-*.pdf
+# 文档类型文件
+# *.doc
+# *.docx
+# *.xls
+# *.xlsx
+# *.ppt
+# *.pptx
+# *.pdf
